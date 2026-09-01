@@ -25,7 +25,8 @@ Gallery with Dynamic Items | [Ateina](https://github.com/Ateina)
 3. Click on the three dots of the screen where you want to add the snippet and select **Paste code**
 4. Start the app and use the form to add items
 
-> **Adapt to your project:** The `Name` and `Value` fields are generic placeholders. Rename them to match your use case and update the corresponding references in the YAML source — the text inputs, gallery labels, and `Collect` / `Patch` calls.
+> [!NOTE]
+> The `Name` and `Value` fields are generic placeholders. Rename them to match your use case and update the corresponding references in the YAML source: the text inputs, gallery labels, and `Collect` / `Patch` calls.
 
 ## Code
 
