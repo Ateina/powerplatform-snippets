@@ -4,8 +4,8 @@
     "name": "pnp-powerplatform-snippets-gallery-horizontal-scroll",
     "version": "1.0.0.0",
     "source": "pnp",
-    "creationDateTime": "2026-03-28T00:00:00.000Z",
-    "updateDateTime": "2026-03-28T00:00:00.000Z",
+    "creationDateTime": "2026-09-01T00:00:00.000Z",
+    "updateDateTime": "2026-09-01T00:00:00.000Z",
     "title": "Gallery with Horizontal Scroll",
     "shortDescription": "A gallery with frozen columns and horizontal scroll to display wide tabular data.",
     "longDescription": [
@@ -34,7 +34,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-snippets/6217a6a26d781ab9b2d1a796d6ebec979988ad6f/power-apps/gallery-horizontal-scroll/assets/gallery-horizontal-scroll.png",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-snippets/main/power-apps/gallery-horizontal-scroll/assets/gallery-horizontal-scroll.png",
         "alt": "Preview"
       }
     ],
